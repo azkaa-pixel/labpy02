@@ -131,7 +131,7 @@ print("Nilai UAS: ", uas)
 print("Nilai Tugas: ", tugas)
 print("Nilai Akhir: ", akhir)
 print("\nNilai Huruf: ", huruf)
-print("Keterangan: ", keterangan)
+print("Keterangan:",keterangan)
 ```
 Akhirnya, program mencetak semua informasi yang telah dimasukkan dan hasil perhitungan, termasuk nama, nilai UTS, UAS, Tugas, nilai akhir, nilai huruf, dan keterangan lulus atau tidak lulus.
 ### - hasil
@@ -183,7 +183,7 @@ else:
 ```
 Program memeriksa apakah pengguna memiliki rumah. Jika iya, maka mereka diwajibkan untuk membayar pajak rumah. Jika tidak, mereka tidak perlu membayar pajak rumah.
 ### - hasil
-![foto](
+![foto](https://github.com/azkaa-pixel/labpy02/blob/be923871e081edb111f8e8a4349b62d2d60bd2a3/latihan%202%20.jpg)
 ## latihan 3
 ### - flowchart
 ![foto]
@@ -217,7 +217,7 @@ else:
 Jika tidak ada kondisi yang terpenuhi, program akan mencetak "SALAH".
 
 ### - hasil
-![foto]
+![foto](https://github.com/azkaa-pixel/labpy02/blob/be923871e081edb111f8e8a4349b62d2d60bd2a3/latihan%203.jpg)
 ## kasus
 ## kasus 1
 ### - flowchart
@@ -263,7 +263,7 @@ if total_harga > 0:
 ```
 Jika total_harga lebih dari 0, program mencetak total harga yang harus dibayar, diformat dengan dua angka di belakang koma.
 ### - hasil
-![foto]
+![foto](https://github.com/azkaa-pixel/labpy02/blob/be923871e081edb111f8e8a4349b62d2d60bd2a3/kasus%201.jpg)
 ## kasus 2
 ### - flowchart
 ![foto]
@@ -310,7 +310,7 @@ print(kalkulator())
 ```
 Kode ini memanggil fungsi kalkulator() dan mencetak hasilnya ke layar.
 ### - hasil 
-![foto]
+![foto](https://github.com/azkaa-pixel/labpy02/blob/be923871e081edb111f8e8a4349b62d2d60bd2a3/kasus%202.jpg)
 
 
 
