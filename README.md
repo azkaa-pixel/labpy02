@@ -143,7 +143,7 @@ Akhirnya, program mencetak semua informasi yang telah dimasukkan dan hasil perhi
 ![foto](https://github.com/azkaa-pixel/labpy02/blob/517a988aadb72851013d28f142aff03ba7c865d9/latihan%201.jpg)
 ## latihan 2 membuat program menampilkan status gaji karyawan 
 ### - flowchart
-![foto]
+![foto](https://github.com/azkaa-pixel/labpy02/blob/abfacbb4c6ad880b61a46413bf06a2f0330a5273/latihan%202.png)
 ### - code program 
 ```phython
 # Meminta input gaji dari pengguna
@@ -191,7 +191,7 @@ Program memeriksa apakah pengguna memiliki rumah. Jika iya, maka mereka diwajibk
 ![foto](https://github.com/azkaa-pixel/labpy02/blob/be923871e081edb111f8e8a4349b62d2d60bd2a3/latihan%202%20.jpg)
 ## latihan 3
 ### - flowchart
-![foto]
+![foto](https://github.com/azkaa-pixel/labpy02/blob/abfacbb4c6ad880b61a46413bf06a2f0330a5273/latihan%203.png)
 ### - code program
 ```phython
 # Mengambil input dari pengguna
