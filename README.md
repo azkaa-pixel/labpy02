@@ -1,5 +1,10 @@
 # modul praktikum 2 - struktur kondisi
-nama :
+Nama:ghefira azka fardani 
+
+Kelas:TI.24.A5
+
+NIM: 312410521
+
 ## 1. pernyataan if 
 pada phyton di kenal penggunaan struktur kondisi menggunakan statement ```if```, di mana format/syntax penggunaan statement ```if``` 
 
