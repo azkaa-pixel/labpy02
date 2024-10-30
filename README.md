@@ -226,7 +226,7 @@ Jika tidak ada kondisi yang terpenuhi, program akan mencetak "SALAH".
 ## kasus
 ## kasus 1
 ### - flowchart
-![foto]
+![foto](https://github.com/azkaa-pixel/labpy02/blob/fe2b159b7e7843e9842e8b0b4c91c20778347825/kasus1.jpg)
 ### - code program 
 ```phython
 # Meminta input dari pengguna
