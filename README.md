@@ -87,7 +87,7 @@ print(keterangan)
 
 ## latihan 1 membuat program  menentukan nilai akhir 
 ### - flowchart
-![foto]
+![foto](https://github.com/azkaa-pixel/labpy02/blob/8eece5e39380c96cc439fb51313fa1c187dbb8c8/Blank%20diagram.png)
 ### - code program
 ```phython
 nama = input("Masukkan nama: ")
