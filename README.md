@@ -226,7 +226,7 @@ Jika tidak ada kondisi yang terpenuhi, program akan mencetak "SALAH".
 ## kasus
 ## kasus 1
 ### - flowchart
-![foto](https://github.com/azkaa-pixel/labpy02/blob/fe2b159b7e7843e9842e8b0b4c91c20778347825/kasus1.jpg)
+![foto](https://github.com/azkaa-pixel/labpy02/blob/b9c99ef1ca9c3877683659aa3daa6d94288e00a1/kasus%201.png)
 ### - code program 
 ```phython
 # Meminta input dari pengguna
@@ -271,7 +271,7 @@ Jika total_harga lebih dari 0, program mencetak total harga yang harus dibayar, 
 ![foto](https://github.com/azkaa-pixel/labpy02/blob/be923871e081edb111f8e8a4349b62d2d60bd2a3/kasus%201.jpg)
 ## kasus 2
 ### - flowchart
-![foto]
+![foto](https://github.com/azkaa-pixel/labpy02/blob/5198524ad3d352caf60313f12f02bfcd4e83e283/kasus%202.png)
 ### - code program
 ```phython
 # Fungsi kalkulator
